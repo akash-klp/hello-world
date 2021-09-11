@@ -1,4 +1,6 @@
-//Learnprogramo - programming made simple
+
+
+
 #include<iostream>
 using namespace std;
 int main() {
