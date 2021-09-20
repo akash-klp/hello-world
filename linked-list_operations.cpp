@@ -80,8 +80,8 @@ int main()
 {
     insert_beg();
     insert_beg();
-//   insert_end();
-//    insert_end();
-   display();
+    insert_end();
+    insert_end();
+    display();
     return 0;
 }
